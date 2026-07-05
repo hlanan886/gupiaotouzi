@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environment
+.env
+!.env.example
+
+# Reports
+Financial-MCP-Agent/reports/*.md
+
+# Logs
+Financial-MCP-Agent/logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Models
+*.pt
+*.bin
+*.safetensors
+model/
+
+# Jupyter
+.ipynb_checkpoints/
