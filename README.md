@@ -198,6 +198,7 @@ start_node
 - `get_money_supply_month` / `get_money_supply_year` - 货币供应
 - `get_ss50_stocks` / `get_sz50_stocks` / `get_hs300_stocks` - 指数成分
 - `get_market_overview` - 市场概览
+<img width="2551" height="776" alt="image" src="https://github.com/user-attachments/assets/7dfb6859-db06-45fd-b56f-9583f55a25dc" />
 
 ## 许可证
 
